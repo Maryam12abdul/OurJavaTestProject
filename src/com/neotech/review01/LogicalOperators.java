@@ -11,6 +11,10 @@ public class LogicalOperators {
 	// If age is from 13 to 19 --> You are a teenager
 	// If age >= 20 --> You are an adult
 
+	
+	
+	
+	//some more info
 	public static void main(String[] args) {
 
 		Scanner input = new Scanner(System.in);
