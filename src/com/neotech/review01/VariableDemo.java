@@ -6,6 +6,10 @@ public class VariableDemo {
 	// ctrl + shift + f
 	// command + shift + f
 
+	
+	
+	
+	//test
 	public static void main(String[] args) {
 
 		// Declare a variable
