@@ -18,7 +18,7 @@ public class Test {
 	
 	public void test3()
 	{
-		
+		System.out.println("Test3");
 	}
 	
 	public void test4()
