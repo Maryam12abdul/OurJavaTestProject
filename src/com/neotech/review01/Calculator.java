@@ -9,8 +9,7 @@ public class Calculator {
 
 	
 	
-	
-	//this is a change
+	// This is a change
 	public static void main(String[] args) {
 
 		Scanner fatma = new Scanner(System.in);
@@ -36,6 +35,7 @@ public class Calculator {
 			System.out.println("The result is " + (d1 / d2));
 		} else {
 			System.out.println("Invalid operator");
+		
 		}
 
 	}
