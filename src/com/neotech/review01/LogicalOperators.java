@@ -12,7 +12,7 @@ public class LogicalOperators {
 	// If age >= 20 --> You are an adult
 
 	
-	
+	// Some more info
 	
 	//some more info
 	public static void main(String[] args) {
